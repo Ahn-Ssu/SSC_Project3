@@ -1,7 +1,8 @@
-# SCC_Project 3.
+# LoginSystem_withDB
 ##### 2020 Summer Coding Camp - Project #3 (Prof. KIM HJ)
 ###### 21600402 Ahn SuHyun
 
+3rd Task 
 
 ## Task : Data Base prototype
 ### Time Period : 2 days 
